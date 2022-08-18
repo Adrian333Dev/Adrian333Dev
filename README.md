@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate React frontend developer based in Baku, Azerbaijan</h3>
 
-#
-🔭 I'm currently working on [ecommerce project](https://github.com/Adrian333Dev/ecommerce-app) 
+
 <br>🤝 I'm looking for job opportunities<br>🌱 I'm currently learning MERN Stack
 
 
