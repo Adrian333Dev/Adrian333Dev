@@ -2,9 +2,6 @@
 <h3 align="center">A passionate React frontend developer based in Baku, Azerbaijan</h3>
 
 
-<br>🤝 I'm looking for job opportunities<br>🌱 I'm currently learning MERN Stack
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarjavarov) 
 
