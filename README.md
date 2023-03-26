@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Software Architecture and Design, Algorithms and Data Structures**
 
-- 📫 How to reach me **jafarovomar21@gmagil.com**
+- 📫 How to reach me **jafarovomar21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
